@@ -1,0 +1,9 @@
+2018-08-30 15:25:10,030 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: learned:learned:0.0.1-SNAPSHOT @ E:\java\java-simple-pdf-to-word\learned\pom.xml.
+2018-08-30 15:25:11,738 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /learned/src/main/java
+2018-08-30 15:25:11,742 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learned/src/main/resources
+2018-08-30 15:25:11,743 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /learned/src/test/java
+2018-08-30 15:25:11,744 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learned/src/test/resources
+2018-08-30 15:25:15,919 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-30 15:25:15,931 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-30 15:25:15,935 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-08-30 15:25:15,941 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
